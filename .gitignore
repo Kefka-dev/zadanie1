@@ -1,5 +1,7 @@
 #executable
 *.exe
+*.txt
+*.json
 
 # Log file
 *.log
